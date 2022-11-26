@@ -1,6 +1,7 @@
 {:title "Another Page"
  :layout :page
- :page-index 1}
+ :page-index 1
+ :home? true}
 
 ## Look at this sweet page
 
